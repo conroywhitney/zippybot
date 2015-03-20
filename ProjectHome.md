@@ -1,0 +1,1 @@
+Twitter Bot that updates its status with Zippy quotes. Contact twitterzippybot@gmail.com.
